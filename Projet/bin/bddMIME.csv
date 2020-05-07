@@ -1,0 +1,16 @@
+html;text/html;<!DOCTYPE html>
+gif;image/gif;GIF8
+jpg;image/jpeg;ÿØÿá
+png;image/png;‰PNG
+mp3;audio/mp3;ID3
+mp4;video/mp4;ftypmp4
+zip;application/x-zip-compressed;PK
+pdf;application/pdf;%PDF
+sh;application/x-shellscript;#!/bin/
+docx;application/vnd.openxmlformats-officedocument.wordprocessingml.document;PK 
+pptx;application/vnd.openxmlformats-officedocument.presentationml.presentation;PK 
+xslx;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;PK 
+odt;application/vnd.oasis.opendocument.text;PK
+ods;application/vnd.oasis.opendocument.spreadsheet;PK
+odp;application/x-zip-compressed;PK
+svg;image/svg+xml;svg
